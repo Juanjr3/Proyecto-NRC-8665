@@ -1,0 +1,7 @@
+Herramienta git
+
+Esta herramienta es muy útil para guardar códigos entre otras cosas, modificar o crear archivos a través de una consola
+Mediante comandos, también se puede subir archivos a una nube que en este caso seria "git hub", la cual se encontraría
+Un respaldo en caso de algún inconveniente como daño de disco duro o problemas de Windows, esto se podría lograr si antes
+Se vincula remotamente de una carpeta a un repositorio en "git hub", donde  se puede descargar e iniciar un respaldo de
+Archivos mediante la consola y sus respectivos comandos, es muy útil en caso de recuperar versiones anteriores de códigos.
